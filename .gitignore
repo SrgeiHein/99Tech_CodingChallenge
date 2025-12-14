@@ -1,0 +1,3 @@
+# Node modules (root or nested)
+node_modules/
+*/node_modules/
